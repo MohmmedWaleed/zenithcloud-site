@@ -1,1 +1,1 @@
-# zenithcloud-site
+Upload these files to a GitHub repository, then Railway > New Project > Deploy from GitHub repo. Generate a public domain in Settings > Networking.
